@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\Additional_task.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\Additional_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\Additional_task.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\Additional_task.AssemblyInfo.cs
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\Additional_task.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\bin\Debug\net6.0\Additional_task.exe
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\bin\Debug\net6.0\Additional_task.deps.json
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\bin\Debug\net6.0\Additional_task.runtimeconfig.json
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\bin\Debug\net6.0\Additional_task.dll
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\bin\Debug\net6.0\Additional_task.pdb
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\Additional_task.dll
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\refint\Additional_task.dll
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\Additional_task.pdb
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\Additional_task.genruntimeconfig.cache
+C:\Users\student\Desktop\Учеба на GB\HomeWork3\Additional_task\obj\Debug\net6.0\ref\Additional_task.dll
