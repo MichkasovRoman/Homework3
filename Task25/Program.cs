@@ -11,6 +11,7 @@ int A_to_Power_of_B (int A, int B)
     }
     return result;
 }
+
 Console.Clear();
 Console.Write("Введите число A = ");
 int numb1 = int.Parse(Console.ReadLine()!);
