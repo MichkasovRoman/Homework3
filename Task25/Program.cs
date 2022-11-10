@@ -5,10 +5,13 @@
 int A_to_Power_of_B (int A, int B)
 {
     int result = 1;
-    for (int i = 1; i <= B; i ++)
+    if B > 0 
     {
-        result = result*A;
-    }
+        for (int i = 1; i <= B; i ++)
+        {
+            result = result*A;
+        }
+    
     return result;
 }
 
